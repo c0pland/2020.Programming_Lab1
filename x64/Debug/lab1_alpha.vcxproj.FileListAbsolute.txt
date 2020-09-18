@@ -1,0 +1,2 @@
+C:\Users\user\Documents\b4\prog\lab1_alpha\x64\Debug\lab1_alpha.exe
+C:\Users\user\Documents\b4\prog\lab1_alpha\x64\Debug\lab1_alpha.pdb

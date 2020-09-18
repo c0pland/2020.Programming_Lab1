@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\user\Documents\b4\prog\lab1_alpha\Source.cpp(71,9): warning C4101: sums: неиспользованная локальная переменная
+  lab1_alpha.vcxproj -> C:\Users\user\Documents\b4\prog\lab1_alpha\Debug\lab1_alpha.exe

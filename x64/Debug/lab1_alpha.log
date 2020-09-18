@@ -1,0 +1,5 @@
+﻿  Source.cpp
+Source.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_pthread_create в функции main.
+Source.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_pthread_join в функции main.
+pthreadVC2.lib : warning LNK4272: тип компьютера библиотеки "x86" конфликтует с типом целевого компьютера "x64"
+C:\Users\user\Documents\b4\prog\lab1_alpha\x64\Debug\lab1_alpha.exe : fatal error LNK1120: неразрешенных внешних элементов: 2
